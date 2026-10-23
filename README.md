@@ -7,15 +7,27 @@
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🛠️ Vibe Coding & Systems Workflow
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+#### 🤖 AI-Driven Development & Orchestration
+* **AI Coding Workflow:** Điều phối các AI Agent CLI & IDEs (OpenCode, Antigravity, Cursor...) để tự động hóa toàn bộ quá trình lập trình, refactor và xử lý logic.
+* **Prompt Engineering & Context Management:** Tối ưu hóa ngữ cảnh và chỉ dẫn cho LLMs (Gemini, Claude, ChatGPT) để xây dựng ứng dụng nhanh chóng, chuẩn xác.
+
+#### 🏗️ Architecture & Cloud Infrastructure
+* **Backend & Database:** Supabase (PostgreSQL), REST/GraphQL API integration.
+* **Deployment & Networking:** Self-hosted Linux servers, Cloudflare Tunnel, Docker, Nginx, CI/CD Workflows.
+* **Frontend Setup:** React, Tailwind CSS, Vite.
+
+---
+
+### 🧰 Core Ecosystem
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
 ### 🚀 Featured Projects
